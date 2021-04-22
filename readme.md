@@ -75,15 +75,22 @@ Paralles desktop:
 
 [ZDI-CAN-11926(CVE-2021-27242)](https://kb.parallels.com/en/125013)
 
-ZDI-CAN-12221
+[ZDI-CAN-12221(CVE-2021-31418)](https://kb.parallels.com/en/125013)
 
-ZDI-CAN-12136
+[ZDI-CAN-12136(CVE-2021-31419)](https://kb.parallels.com/en/125013)
 
-ZDI-CAN-12131
+[ZDI-CAN-12131(CVE-2021-31417)](https://kb.parallels.com/en/125013)
 
-ZDI-CAN-12220
+[ZDI-CAN-12220(CVE-2021-31420)](https://kb.parallels.com/en/125013)
 
-ZDI-CAN-12130
+[ZDI-CAN-12130(CVE-2021-27278)](https://kb.parallels.com/en/125013) pwn2own2021
 
-ZDI-CAN-12129
+[ZDI-CAN-12129(CVE-2021-31421)](https://kb.parallels.com/en/125013)
 
+CVE-2021-31417
+
+CVE-2021-31419
+
+Windows:
+
+[CVE-2021-27088](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-27088)
