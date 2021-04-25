@@ -62,7 +62,7 @@ VIRTUALBOX:
 
 Paralles desktop:
 
-[ZDI-CAN-11253(CVE-2020-17397)](https://kb.parallels.com/en/125013)...明明是从虚拟机发出的数据直接在宿主机内核crash的..这也算权限提升醉了
+[ZDI-CAN-11253(CVE-2020-17397)](https://kb.parallels.com/en/125013)
 
 [ZDI-CAN-12021(CVE-2021-27259)](https://kb.parallels.com/en/125013)
 
