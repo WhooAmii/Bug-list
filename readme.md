@@ -94,7 +94,7 @@ Windows:
 
 [CVE-2021-34454](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34454)
 
-[CVE-2021-34455](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34455)
+[CVE-2021-34445](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34445)
 
 [CVE-2021-34456](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34456)
 
