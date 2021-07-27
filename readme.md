@@ -91,3 +91,20 @@ CVE-2021-31419
 Windows:
 
 [CVE-2021-27088](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-27088)
+
+[CVE-2021-34454](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34454)
+
+[CVE-2021-34455](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34455)
+
+[CVE-2021-34456](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34456)
+
+[CVE-2021-34457](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34457)
+
+[CVE-2021-33761](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-33761)
+
+[CVE-2021-33763](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-33763)
+
+[CVE-2021-33773](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-33773)
+
+CVE-2021-34537
+
