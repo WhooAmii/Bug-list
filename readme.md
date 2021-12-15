@@ -118,4 +118,4 @@ CVE-2021-41377
 
 BLUEZ:
 
-CVE-2021-41229
+[CVE-2021-41229](https://github.com/bluez/bluez/security/advisories/GHSA-3fqg-r8j5-f5xq)
