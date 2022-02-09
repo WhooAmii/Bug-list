@@ -129,3 +129,7 @@ BLUEZ:
 [CVE-2021-41229](https://github.com/bluez/bluez/security/advisories/GHSA-3fqg-r8j5-f5xq)
 
 [CVE-2022-0204](https://bugzilla.redhat.com/show_bug.cgi?id=2039807)
+
+Linux kernel:
+
+CVE-2022-0400
