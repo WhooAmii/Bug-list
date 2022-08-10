@@ -125,6 +125,7 @@ CVE-2022-21985
 CVE-2022-22001
 
 CVE-2022-34715
+
 BLUEZ:
 
 [CVE-2021-41229](https://github.com/bluez/bluez/security/advisories/GHSA-3fqg-r8j5-f5xq)
