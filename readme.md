@@ -124,6 +124,7 @@ CVE-2022-21985
 
 CVE-2022-22001
 
+CVE-2022-34715
 BLUEZ:
 
 [CVE-2021-41229](https://github.com/bluez/bluez/security/advisories/GHSA-3fqg-r8j5-f5xq)
@@ -133,3 +134,5 @@ BLUEZ:
 Linux kernel:
 
 CVE-2022-0400
+
+CVE-2022-1972(exploit in 2022)
