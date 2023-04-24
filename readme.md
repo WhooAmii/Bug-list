@@ -126,6 +126,12 @@ CVE-2022-22001
 
 CVE-2022-34715
 
+[CVE-2022-44675](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-44675)
+[CVE-2022-44674](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-44674)
+[CVE-2023-28236](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28236)
+[CVE-2023-28273](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28273)
+[CVE-2023-21739](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21739)
+
 BLUEZ:
 
 [CVE-2021-41229](https://github.com/bluez/bluez/security/advisories/GHSA-3fqg-r8j5-f5xq)
