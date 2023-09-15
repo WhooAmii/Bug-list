@@ -148,6 +148,10 @@ CVE-2023-35364
 
 CVE-2023-33174
 
+CVE-2023-35378
+
+CVE-2023-38150
+
 BLUEZ:
 
 [CVE-2021-41229](https://github.com/bluez/bluez/security/advisories/GHSA-3fqg-r8j5-f5xq)
